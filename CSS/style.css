@@ -1,0 +1,13 @@
+
+
+:root{
+    /* primary colors */
+    --very_dark_blue:hsl(233, 47%, 7%);
+    --destaturated_blue: hsl(244, 38%, 16%);
+    --soft_voilent: hsl(277, 64%, 61%);
+    /* nuetral colors */
+    --white_headings: hsl(0, 0%, 100%);
+    --slight_trans_white_p: hsla(0, 0%, 100%, 0.75);
+    --white_stat_h:hsla(0, 0%, 100%, 0.6);
+
+}
